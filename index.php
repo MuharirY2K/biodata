@@ -19,10 +19,10 @@
             <div class="col-8 m-auto">
                 <div class="card shadow p-3 mb-5 bg-body-tertiary rounded">
                     <div class="card-header">
-                        <b>APLIKASI BIODATA SISWA</b>
+                        <b>APLIKASI LIBRARY MANAGER</b>
                     </div>
                     <div class="card-body">
-                        <h2>Selamat Datang di Aplikasi Biodata Siswa</h2>
+                        <h2>Selamat Datang di Aplikasi Library Manager</h2>
                     </div>
                 </div>
             </div>
