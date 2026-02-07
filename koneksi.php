@@ -2,7 +2,7 @@
     $host = "localhost";
     $username = "root";
     $password = "";
-    $db = "is63";
+    $db = "librarymanager";
 
     $koneksi = mysqli_connect($host,$username,$password,$db);
 ?>
